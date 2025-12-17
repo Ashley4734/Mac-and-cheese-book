@@ -1,35 +1,79 @@
 # The Ultimate Mac and Cheese Book
 
-A modern, comfort-forward collection of 100 mac and cheese recipes designed for both Kindle eBook flowable formatting and print-ready layout. Headings follow a consistent hierarchy for easy export.
+---
+
+## 100 Creative & Comforting Recipes
+
+*A modern, comfort-forward collection designed for both digital and print formats*
+
+---
 
 ## How to Use This Book
-- **Format:** H1 for the title, H2 for major sections, H3 for recipes. Keep ingredient bullets simple and steps numbered.
-- **Portions:** Most recipes serve 4. Scale by multiplying ingredient amounts.
-- **Dietary swaps:** Milk can be swapped for evaporated milk, half-and-half, or dairy-free alternatives. Pasta shapes are flexible—use what holds sauce.
-- **Baking vs. stovetop:** Recipes noting "bake" include a topping and oven finish. Stovetop versions finish in the pot.
-- **Safety:** Keep hot foods above 140°F (60°C) and cool leftovers quickly.
+
+### Quick Guide
+- **Portions:** Most recipes serve 4–6. Scale by multiplying ingredient amounts.
+- **Dietary Swaps:** Milk can be swapped for evaporated milk, half-and-half, or dairy-free alternatives. Pasta shapes are flexible—use what holds sauce.
+- **Cooking Methods:** Recipes noting "bake" include a topping and oven finish. Stovetop versions finish in the pot.
+- **Safety First:** Keep hot foods above 140°F (60°C) and cool leftovers quickly.
+
+---
 
 ## Table of Contents
-- Title & How to Use
+
+### Getting Started
+- How to Use This Book
 - Pantry & Tools
 - Quick Troubleshooting
-- Recipe Index (100 recipes)
+
+### The Recipes
+- 100 Mac and Cheese Variations (see Recipe Index below)
+
+### Reference
 - Batch Cooking & Freezing
 - Conversions & Measurements
 
+---
+
 ## Pantry & Tools
-- **Cheeses:** Cheddar, Monterey Jack, mozzarella, Gruyère, Swiss, Gouda, Parmesan, cream cheese, blue cheese, feta, goat cheese.
-- **Dairy:** Whole milk, evaporated milk, half-and-half, heavy cream, Greek yogurt.
-- **Thickeners:** Roux (butter + flour), cornstarch slurry, or reduced-cream sauces.
-- **Flavor builders:** Mustard, hot sauce, smoked paprika, garlic/onion powder, Worcestershire, miso, curry paste.
-- **Crunchy toppings:** Panko, crushed crackers, kettle chips, fried onions, toasted seeds or nuts.
-- **Gear:** 4–6 qt pot, 10–12 in skillet, casserole dish, whisk, wooden spoon, baking sheet.
+
+### Essential Cheeses
+- **Everyday:** Cheddar, Monterey Jack, mozzarella, Colby Jack
+- **Premium:** Gruyère, Swiss, Gouda, aged Parmesan
+- **Specialty:** Cream cheese, blue cheese, feta, goat cheese
+
+### Dairy & Base Ingredients
+- **Milk Options:** Whole milk, evaporated milk, half-and-half, heavy cream
+- **Extras:** Greek yogurt, sour cream
+- **Thickeners:** Butter and flour (for roux), cornstarch slurry
+
+### Flavor Enhancers
+- **Spices:** Smoked paprika, garlic powder, onion powder, cayenne
+- **Condiments:** Dijon mustard, hot sauce, Worcestershire sauce
+- **International:** Miso paste, curry paste, harissa
+
+### Toppings & Texture
+- **Crunchy:** Panko breadcrumbs, crushed crackers, kettle chips, fried onions
+- **Nutty:** Toasted seeds, chopped nuts
+
+### Essential Equipment
+- 4–6 quart pot
+- 10–12 inch skillet
+- 9×13 inch casserole dish
+- Whisk and wooden spoon
+- Baking sheet
+- Grater (for fresh cheese)
+
+---
 
 ## Quick Troubleshooting
+
+### Common Issues & Solutions
 - **Grainy sauce:** Lower heat; add a splash of cream and whisk. Melt cheese off direct heat.
-- **Thin sauce:** Simmer 2–3 minutes to reduce or whisk in 1 tsp cornstarch slurry.
+- **Thin sauce:** Simmer 2–3 minutes to reduce, or whisk in 1 tsp cornstarch slurry.
 - **Dry baked mac:** Stir in 1/2 cup warm milk before topping and baking.
 - **Clumpy cheese:** Add cheese gradually with constant stirring; keep below a simmer.
+
+---
 
 ## Recipe Index (100 recipes)
 1. Classic Stovetop Comfort
@@ -133,7 +177,13 @@ A modern, comfort-forward collection of 100 mac and cheese recipes designed for 
 99. Pho Broth Mac
 100. Ramen Broth Mac
 
+---
+
 ## Recipes
+
+*Each recipe includes serving size, prep/cook times, style, and flavor notes. Adjust seasonings to taste.*
+
+---
 
 ### Recipe 01: Classic Stovetop Comfort
 - Serves: 4 | Prep: 10 min | Cook: 20 min | Style: Stovetop
@@ -157,6 +207,8 @@ A modern, comfort-forward collection of 100 mac and cheese recipes designed for 
 **Finishing Touch**
 - Sprinkle with paprika or chives before serving.
 
+---
+
 ### Recipe 02: Baked Cheddar Crust
 - Serves: 6 | Prep: 15 min | Cook: 30 min | Style: Baked
 - Flavor notes: Golden panko crust over a creamy cheddar base.
@@ -179,6 +231,8 @@ A modern, comfort-forward collection of 100 mac and cheese recipes designed for 
 **Finishing Touch**
 - Add a squeeze of lemon over the crust for brightness.
 
+---
+
 ### Recipe 03: One-Pot Weeknight
 - Serves: 4 | Prep: 5 min | Cook: 18 min | Style: One-pot
 - Flavor notes: Minimal dishes with creamy texture.
@@ -199,6 +253,8 @@ A modern, comfort-forward collection of 100 mac and cheese recipes designed for 
 
 **Finishing Touch**
 - Stir in 1/2 cup peas or chopped spinach for color.
+
+---
 
 ### Recipe 04: Creamy Instant Pot
 - Serves: 6 | Prep: 5 min | Cook: 6 min + release | Style: Pressure cooker
@@ -222,6 +278,8 @@ A modern, comfort-forward collection of 100 mac and cheese recipes designed for 
 **Finishing Touch**
 - Sprinkle with crushed kettle chips.
 
+---
+
 ### Recipe 05: Slow Cooker Family
 - Serves: 8 | Prep: 10 min | Cook: 2–3 hrs low | Style: Slow cooker
 - Flavor notes: Crowd-pleasing, set-and-forget.
@@ -243,6 +301,8 @@ A modern, comfort-forward collection of 100 mac and cheese recipes designed for 
 
 **Finishing Touch**
 - Top with chopped parsley or green onions before serving.
+
+---
 
 ### Recipe 06: Sheet Pan Crunch
 - Serves: 6 | Prep: 15 min | Cook: 25 min | Style: Baked
@@ -267,6 +327,8 @@ A modern, comfort-forward collection of 100 mac and cheese recipes designed for 
 **Finishing Touch**
 - Drizzle with hot honey after baking.
 
+---
+
 ### Recipe 07: Skillet Bacon Cheddar
 - Serves: 4 | Prep: 10 min | Cook: 25 min | Style: Skillet
 - Flavor notes: Smoky bacon with sharp cheddar.
@@ -288,6 +350,8 @@ A modern, comfort-forward collection of 100 mac and cheese recipes designed for 
 
 **Finishing Touch**
 - Garnish with sliced green onions.
+
+---
 
 ### Recipe 08: Caramelized Onion Gruyère
 - Serves: 4 | Prep: 15 min | Cook: 35 min | Style: Skillet-baked
@@ -312,6 +376,8 @@ A modern, comfort-forward collection of 100 mac and cheese recipes designed for 
 **Finishing Touch**
 - Add a handful of toasted baguette crumbs for French onion soup vibes.
 
+---
+
 ### Recipe 09: Broccoli Cheddar Bake
 - Serves: 6 | Prep: 10 min | Cook: 30 min | Style: Baked
 - Flavor notes: Bright broccoli with classic cheddar.
@@ -334,6 +400,8 @@ A modern, comfort-forward collection of 100 mac and cheese recipes designed for 
 
 **Finishing Touch**
 - Squeeze lemon over the baked top to brighten.
+
+---
 
 ### Recipe 10: Spinach Artichoke
 - Serves: 6 | Prep: 15 min | Cook: 25 min | Style: Baked
@@ -360,6 +428,8 @@ A modern, comfort-forward collection of 100 mac and cheese recipes designed for 
 **Finishing Touch**
 - Top with extra Parmesan and broil 1 minute for color.
 
+---
+
 ### Recipe 11: Buffalo Chicken
 - Serves: 6 | Prep: 15 min | Cook: 25 min | Style: Baked
 - Flavor notes: Tangy heat with blue cheese crumble.
@@ -385,6 +455,8 @@ A modern, comfort-forward collection of 100 mac and cheese recipes designed for 
 **Finishing Touch**
 - Drizzle with ranch or extra buffalo sauce before serving.
 
+---
+
 ### Recipe 12: BBQ Pulled Pork
 - Serves: 6 | Prep: 15 min | Cook: 25 min | Style: Baked
 - Flavor notes: Smoky-sweet with sharp cheddar.
@@ -408,6 +480,8 @@ A modern, comfort-forward collection of 100 mac and cheese recipes designed for 
 
 **Finishing Touch**
 - Add pickled jalapeños for tang.
+
+---
 
 ### Recipe 13: Cajun Andouille
 - Serves: 6 | Prep: 15 min | Cook: 30 min | Style: Skillet-baked
@@ -433,6 +507,8 @@ A modern, comfort-forward collection of 100 mac and cheese recipes designed for 
 **Finishing Touch**
 - Sprinkle with chopped parsley and a squeeze of lemon.
 
+---
+
 ### Recipe 14: Jalapeño Popper
 - Serves: 6 | Prep: 15 min | Cook: 25 min | Style: Baked
 - Flavor notes: Cream cheese richness with jalapeño heat.
@@ -456,6 +532,8 @@ A modern, comfort-forward collection of 100 mac and cheese recipes designed for 
 
 **Finishing Touch**
 - Add crispy bacon bits on top before serving.
+
+---
 
 ### Recipe 15: Pesto Caprese
 - Serves: 4 | Prep: 10 min | Cook: 20 min | Style: Stovetop
@@ -481,6 +559,8 @@ A modern, comfort-forward collection of 100 mac and cheese recipes designed for 
 **Finishing Touch**
 - Garnish with torn basil and a drizzle of olive oil.
 
+---
+
 ### Recipe 16: Sun-Dried Tomato Basil
 - Serves: 4 | Prep: 10 min | Cook: 22 min | Style: Stovetop
 - Flavor notes: Sweet-tart tomatoes with herb fragrance.
@@ -505,6 +585,8 @@ A modern, comfort-forward collection of 100 mac and cheese recipes designed for 
 **Finishing Touch**
 - Top with toasted pine nuts.
 
+---
+
 ### Recipe 17: Roasted Garlic Parmesan
 - Serves: 4 | Prep: 10 min (+roast) | Cook: 20 min | Style: Stovetop
 - Flavor notes: Sweet roasted garlic with nutty Parmesan.
@@ -527,6 +609,8 @@ A modern, comfort-forward collection of 100 mac and cheese recipes designed for 
 
 **Finishing Touch**
 - Add a squeeze of lemon and chopped parsley.
+
+---
 
 ### Recipe 18: Truffle Mushroom
 - Serves: 4 | Prep: 15 min | Cook: 25 min | Style: Skillet-baked
@@ -553,6 +637,8 @@ A modern, comfort-forward collection of 100 mac and cheese recipes designed for 
 **Finishing Touch**
 - Top with extra Parmesan and cracked pepper.
 
+---
+
 ### Recipe 19: Lobster Luxe
 - Serves: 4 | Prep: 15 min | Cook: 20 min | Style: Baked
 - Flavor notes: Rich lobster with buttery breadcrumbs.
@@ -577,6 +663,8 @@ A modern, comfort-forward collection of 100 mac and cheese recipes designed for 
 **Finishing Touch**
 - Squeeze lemon and garnish with chives.
 
+---
+
 ### Recipe 20: Crab & Old Bay
 - Serves: 4 | Prep: 10 min | Cook: 22 min | Style: Stovetop
 - Flavor notes: Coastal, savory-sweet crab with spice.
@@ -599,6 +687,8 @@ A modern, comfort-forward collection of 100 mac and cheese recipes designed for 
 
 **Finishing Touch**
 - Top with crushed butter crackers and parsley.
+
+---
 
 ### Recipe 21: Shrimp Scampi
 - Serves: 4 | Prep: 10 min | Cook: 18 min | Style: Stovetop
@@ -624,6 +714,8 @@ A modern, comfort-forward collection of 100 mac and cheese recipes designed for 
 **Finishing Touch**
 - Sprinkle with parsley and extra lemon zest.
 
+---
+
 ### Recipe 22: Salmon Dill
 - Serves: 4 | Prep: 10 min | Cook: 22 min | Style: Stovetop
 - Flavor notes: Creamy herb sauce with flaky salmon.
@@ -647,6 +739,8 @@ A modern, comfort-forward collection of 100 mac and cheese recipes designed for 
 
 **Finishing Touch**
 - Top with dill fronds and cracked pepper.
+
+---
 
 ### Recipe 23: Tuna Melt Bake
 - Serves: 6 | Prep: 10 min | Cook: 25 min | Style: Baked
@@ -673,6 +767,8 @@ A modern, comfort-forward collection of 100 mac and cheese recipes designed for 
 **Finishing Touch**
 - Top with crushed potato chips for crunch.
 
+---
+
 ### Recipe 24: Greek Feta Olive
 - Serves: 4 | Prep: 10 min | Cook: 20 min | Style: Stovetop
 - Flavor notes: Briny olives and tangy feta.
@@ -696,6 +792,8 @@ A modern, comfort-forward collection of 100 mac and cheese recipes designed for 
 
 **Finishing Touch**
 - Garnish with cucumber ribbons and olive oil drizzle.
+
+---
 
 ### Recipe 25: Caponata Eggplant
 - Serves: 4 | Prep: 15 min | Cook: 30 min | Style: Skillet
@@ -722,6 +820,8 @@ A modern, comfort-forward collection of 100 mac and cheese recipes designed for 
 
 **Finishing Touch**
 - Add toasted almonds for crunch.
+
+---
 
 ### Recipe 26: Ratatouille Veggie
 - Serves: 4 | Prep: 15 min | Cook: 30 min | Style: Skillet-baked
@@ -750,6 +850,8 @@ A modern, comfort-forward collection of 100 mac and cheese recipes designed for 
 **Finishing Touch**
 - Top with torn basil.
 
+---
+
 ### Recipe 27: Roasted Red Pepper Gouda
 - Serves: 4 | Prep: 10 min | Cook: 22 min | Style: Stovetop
 - Flavor notes: Sweet peppers with smoky Gouda.
@@ -773,6 +875,8 @@ A modern, comfort-forward collection of 100 mac and cheese recipes designed for 
 **Finishing Touch**
 - Add chopped parsley and a drizzle of olive oil.
 
+---
+
 ### Recipe 28: Kimchi Cheddar
 - Serves: 4 | Prep: 10 min | Cook: 18 min | Style: Stovetop
 - Flavor notes: Spicy, tangy kimchi with sharp cheddar.
@@ -795,6 +899,8 @@ A modern, comfort-forward collection of 100 mac and cheese recipes designed for 
 
 **Finishing Touch**
 - Sprinkle with toasted sesame seeds and scallions.
+
+---
 
 ### Recipe 29: Bulgogi Beef
 - Serves: 4 | Prep: 15 min | Cook: 25 min | Style: Skillet
@@ -823,6 +929,8 @@ A modern, comfort-forward collection of 100 mac and cheese recipes designed for 
 **Finishing Touch**
 - Garnish with sesame seeds and sliced scallions.
 
+---
+
 ### Recipe 30: Teriyaki Chicken
 - Serves: 4 | Prep: 10 min | Cook: 20 min | Style: Stovetop
 - Flavor notes: Sweet-teriyaki glaze with creamy cheese.
@@ -846,6 +954,8 @@ A modern, comfort-forward collection of 100 mac and cheese recipes designed for 
 
 **Finishing Touch**
 - Top with sliced scallions and toasted sesame seeds.
+
+---
 
 ### Recipe 31: Sweet Chili Shrimp
 - Serves: 4 | Prep: 10 min | Cook: 18 min | Style: Skillet
@@ -871,6 +981,8 @@ A modern, comfort-forward collection of 100 mac and cheese recipes designed for 
 **Finishing Touch**
 - Garnish with cilantro and lime wedges.
 
+---
+
 ### Recipe 32: Tikka Masala
 - Serves: 6 | Prep: 15 min | Cook: 25 min | Style: Skillet-baked
 - Flavor notes: Creamy tomato curry with cheddar melt.
@@ -895,6 +1007,8 @@ A modern, comfort-forward collection of 100 mac and cheese recipes designed for 
 
 **Finishing Touch**
 - Sprinkle with cilantro and a pinch of garam masala.
+
+---
 
 ### Recipe 33: Butter Chicken
 - Serves: 6 | Prep: 15 min | Cook: 25 min | Style: Skillet-baked
@@ -922,6 +1036,8 @@ A modern, comfort-forward collection of 100 mac and cheese recipes designed for 
 **Finishing Touch**
 - Dot with yogurt and fresh cilantro.
 
+---
+
 ### Recipe 34: Paneer Makhani
 - Serves: 6 | Prep: 15 min | Cook: 25 min | Style: Skillet
 - Flavor notes: Tomato-butter sauce with paneer cubes.
@@ -945,6 +1061,8 @@ A modern, comfort-forward collection of 100 mac and cheese recipes designed for 
 
 **Finishing Touch**
 - Garnish with cilantro and a pinch of chili powder.
+
+---
 
 ### Recipe 35: Birria Beef
 - Serves: 6 | Prep: 20 min | Cook: 30 min | Style: Skillet-baked
@@ -970,6 +1088,8 @@ A modern, comfort-forward collection of 100 mac and cheese recipes designed for 
 **Finishing Touch**
 - Serve with lime wedges and cilantro.
 
+---
+
 ### Recipe 36: Carne Asada
 - Serves: 6 | Prep: 20 min | Cook: 25 min | Style: Skillet
 - Flavor notes: Citrus-marinated steak with pepper jack.
@@ -993,6 +1113,8 @@ A modern, comfort-forward collection of 100 mac and cheese recipes designed for 
 **Finishing Touch**
 - Top with cilantro and diced avocado.
 
+---
+
 ### Recipe 37: Chorizo Queso
 - Serves: 6 | Prep: 10 min | Cook: 20 min | Style: Skillet
 - Flavor notes: Spicy chorizo queso folded into pasta.
@@ -1015,6 +1137,8 @@ A modern, comfort-forward collection of 100 mac and cheese recipes designed for 
 
 **Finishing Touch**
 - Scatter with cilantro and pickled jalapeños.
+
+---
 
 ### Recipe 38: Taco Tuesday
 - Serves: 6 | Prep: 10 min | Cook: 25 min | Style: Skillet-baked
@@ -1040,6 +1164,8 @@ A modern, comfort-forward collection of 100 mac and cheese recipes designed for 
 **Finishing Touch**
 - Top with shredded lettuce, diced tomatoes, and sour cream before serving.
 
+---
+
 ### Recipe 39: Enchilada Verde
 - Serves: 6 | Prep: 15 min | Cook: 25 min | Style: Baked
 - Flavor notes: Tomatillo sauce with chicken and cheese.
@@ -1062,6 +1188,8 @@ A modern, comfort-forward collection of 100 mac and cheese recipes designed for 
 
 **Finishing Touch**
 - Serve with lime crema.
+
+---
 
 ### Recipe 40: Chipotle Black Bean
 - Serves: 6 | Prep: 10 min | Cook: 25 min | Style: Skillet
@@ -1087,6 +1215,8 @@ A modern, comfort-forward collection of 100 mac and cheese recipes designed for 
 **Finishing Touch**
 - Top with crushed tortilla chips and cilantro.
 
+---
+
 ### Recipe 41: Butternut Sage
 - Serves: 4 | Prep: 15 min | Cook: 25 min | Style: Baked
 - Flavor notes: Roasted squash with brown butter sage.
@@ -1111,6 +1241,8 @@ A modern, comfort-forward collection of 100 mac and cheese recipes designed for 
 **Finishing Touch**
 - Crumble fried sage on top.
 
+---
+
 ### Recipe 42: Pumpkin Brown Butter
 - Serves: 4 | Prep: 10 min | Cook: 22 min | Style: Stovetop
 - Flavor notes: Nutty brown butter with pumpkin puree.
@@ -1133,6 +1265,8 @@ A modern, comfort-forward collection of 100 mac and cheese recipes designed for 
 
 **Finishing Touch**
 - Add toasted pepitas.
+
+---
 
 ### Recipe 43: Sweet Potato Maple
 - Serves: 4 | Prep: 15 min | Cook: 25 min | Style: Baked
@@ -1158,6 +1292,8 @@ A modern, comfort-forward collection of 100 mac and cheese recipes designed for 
 **Finishing Touch**
 - Top with toasted pecans.
 
+---
+
 ### Recipe 44: Cauliflower Alfredo
 - Serves: 4 | Prep: 15 min | Cook: 22 min | Style: Stovetop
 - Flavor notes: Silky cauliflower puree with Parmesan.
@@ -1180,6 +1316,8 @@ A modern, comfort-forward collection of 100 mac and cheese recipes designed for 
 
 **Finishing Touch**
 - Add chopped parsley and cracked pepper.
+
+---
 
 ### Recipe 45: Zucchini Herb
 - Serves: 4 | Prep: 10 min | Cook: 20 min | Style: Stovetop
@@ -1205,6 +1343,8 @@ A modern, comfort-forward collection of 100 mac and cheese recipes designed for 
 **Finishing Touch**
 - Finish with lemon zest and basil.
 
+---
+
 ### Recipe 46: Peas & Mint
 - Serves: 4 | Prep: 10 min | Cook: 18 min | Style: Stovetop
 - Flavor notes: Bright, springy sweetness.
@@ -1228,6 +1368,8 @@ A modern, comfort-forward collection of 100 mac and cheese recipes designed for 
 
 **Finishing Touch**
 - Drizzle with olive oil and extra mint.
+
+---
 
 ### Recipe 47: Primavera Veggie
 - Serves: 4 | Prep: 15 min | Cook: 20 min | Style: Stovetop
@@ -1255,6 +1397,8 @@ A modern, comfort-forward collection of 100 mac and cheese recipes designed for 
 **Finishing Touch**
 - Add basil ribbons.
 
+---
+
 ### Recipe 48: Green Goddess
 - Serves: 4 | Prep: 15 min | Cook: 18 min | Style: Stovetop
 - Flavor notes: Herb-packed with tangy yogurt.
@@ -1281,6 +1425,8 @@ A modern, comfort-forward collection of 100 mac and cheese recipes designed for 
 **Finishing Touch**
 - Top with sliced green onions.
 
+---
+
 ### Recipe 49: Spinach Ricotta
 - Serves: 4 | Prep: 10 min | Cook: 20 min | Style: Stovetop
 - Flavor notes: Creamy ricotta with tender spinach.
@@ -1303,6 +1449,8 @@ A modern, comfort-forward collection of 100 mac and cheese recipes designed for 
 
 **Finishing Touch**
 - Finish with red pepper flakes.
+
+---
 
 ### Recipe 50: Four-Cheese Supreme
 - Serves: 6 | Prep: 10 min | Cook: 25 min | Style: Baked
@@ -1328,6 +1476,8 @@ A modern, comfort-forward collection of 100 mac and cheese recipes designed for 
 **Finishing Touch**
 - Top with toasted breadcrumbs.
 
+---
+
 ### Recipe 51: Smoked Gouda Bacon
 - Serves: 4 | Prep: 10 min | Cook: 22 min | Style: Skillet
 - Flavor notes: Smoky cheese with crisp bacon.
@@ -1350,6 +1500,8 @@ A modern, comfort-forward collection of 100 mac and cheese recipes designed for 
 
 **Finishing Touch**
 - Add sliced green onions.
+
+---
 
 ### Recipe 52: Applewood Ham Swiss
 - Serves: 6 | Prep: 10 min | Cook: 25 min | Style: Baked
@@ -1374,6 +1526,8 @@ A modern, comfort-forward collection of 100 mac and cheese recipes designed for 
 
 **Finishing Touch**
 - Garnish with chopped chives.
+
+---
 
 ### Recipe 53: Philly Steak & Peppers
 - Serves: 6 | Prep: 15 min | Cook: 25 min | Style: Skillet-baked
@@ -1401,6 +1555,8 @@ A modern, comfort-forward collection of 100 mac and cheese recipes designed for 
 **Finishing Touch**
 - Add pickled cherry peppers for zing.
 
+---
+
 ### Recipe 54: Pepperoni Pizza
 - Serves: 6 | Prep: 10 min | Cook: 25 min | Style: Baked
 - Flavor notes: Pizza-inspired with marinara and mozzarella.
@@ -1422,6 +1578,8 @@ A modern, comfort-forward collection of 100 mac and cheese recipes designed for 
 
 **Finishing Touch**
 - Sprinkle with crushed red pepper and basil.
+
+---
 
 ### Recipe 55: Sausage & Peppers
 - Serves: 6 | Prep: 10 min | Cook: 25 min | Style: Skillet
@@ -1448,6 +1606,8 @@ A modern, comfort-forward collection of 100 mac and cheese recipes designed for 
 **Finishing Touch**
 - Top with parsley and grated Parmesan.
 
+---
+
 ### Recipe 56: Meatball Marinara
 - Serves: 6 | Prep: 10 min | Cook: 25 min | Style: Baked
 - Flavor notes: Comforting meatballs with cheesy crust.
@@ -1469,6 +1629,8 @@ A modern, comfort-forward collection of 100 mac and cheese recipes designed for 
 
 **Finishing Touch**
 - Add fresh basil ribbons.
+
+---
 
 ### Recipe 57: Baked Ziti Mashup
 - Serves: 6 | Prep: 10 min | Cook: 30 min | Style: Baked
@@ -1492,6 +1654,8 @@ A modern, comfort-forward collection of 100 mac and cheese recipes designed for 
 **Finishing Touch**
 - Sprinkle with red pepper flakes.
 
+---
+
 ### Recipe 58: Carbonara Style
 - Serves: 4 | Prep: 10 min | Cook: 18 min | Style: Stovetop
 - Flavor notes: Silky egg-Parmesan sauce with pancetta.
@@ -1513,6 +1677,8 @@ A modern, comfort-forward collection of 100 mac and cheese recipes designed for 
 
 **Finishing Touch**
 - Add extra Pecorino and pepper.
+
+---
 
 ### Recipe 59: Alfredo Bake
 - Serves: 6 | Prep: 10 min | Cook: 25 min | Style: Baked
@@ -1536,6 +1702,8 @@ A modern, comfort-forward collection of 100 mac and cheese recipes designed for 
 
 **Finishing Touch**
 - Garnish with parsley.
+
+---
 
 ### Recipe 60: Lemon Pepper Chicken
 - Serves: 4 | Prep: 10 min | Cook: 22 min | Style: Stovetop
@@ -1561,6 +1729,8 @@ A modern, comfort-forward collection of 100 mac and cheese recipes designed for 
 **Finishing Touch**
 - Add extra lemon zest and parsley.
 
+---
+
 ### Recipe 61: Herbed Rotisserie Leftover
 - Serves: 6 | Prep: 10 min | Cook: 20 min | Style: Stovetop
 - Flavor notes: Rotisserie chicken with herb cream.
@@ -1585,6 +1755,8 @@ A modern, comfort-forward collection of 100 mac and cheese recipes designed for 
 **Finishing Touch**
 - Add a squeeze of lemon.
 
+---
+
 ### Recipe 62: Farmers Market Corn
 - Serves: 4 | Prep: 10 min | Cook: 20 min | Style: Skillet
 - Flavor notes: Sweet corn with scallions and cheddar.
@@ -1607,6 +1779,8 @@ A modern, comfort-forward collection of 100 mac and cheese recipes designed for 
 
 **Finishing Touch**
 - Sprinkle with extra scallions and paprika.
+
+---
 
 ### Recipe 63: Elote Street Corn
 - Serves: 4 | Prep: 10 min | Cook: 20 min | Style: Skillet
@@ -1632,6 +1806,8 @@ A modern, comfort-forward collection of 100 mac and cheese recipes designed for 
 **Finishing Touch**
 - Top with Tajín and cilantro.
 
+---
+
 ### Recipe 64: BLT Mac
 - Serves: 4 | Prep: 10 min | Cook: 20 min | Style: Skillet
 - Flavor notes: Bacon, lettuce, tomato twist.
@@ -1656,6 +1832,8 @@ A modern, comfort-forward collection of 100 mac and cheese recipes designed for 
 **Finishing Touch**
 - Drizzle with ranch dressing.
 
+---
+
 ### Recipe 65: Dill Pickle Crunch
 - Serves: 4 | Prep: 10 min | Cook: 18 min | Style: Stovetop
 - Flavor notes: Tangy pickles with sharp cheddar.
@@ -1678,6 +1856,8 @@ A modern, comfort-forward collection of 100 mac and cheese recipes designed for 
 
 **Finishing Touch**
 - Add a splash of pickle brine for extra tang.
+
+---
 
 ### Recipe 66: Nashville Hot Chicken
 - Serves: 6 | Prep: 15 min | Cook: 25 min | Style: Baked
@@ -1704,6 +1884,8 @@ A modern, comfort-forward collection of 100 mac and cheese recipes designed for 
 **Finishing Touch**
 - Drizzle extra hot oil after baking.
 
+---
+
 ### Recipe 67: Honey Mustard Chicken
 - Serves: 6 | Prep: 10 min | Cook: 20 min | Style: Stovetop
 - Flavor notes: Sweet-tangy sauce with cheddar.
@@ -1727,6 +1909,8 @@ A modern, comfort-forward collection of 100 mac and cheese recipes designed for 
 
 **Finishing Touch**
 - Add sliced green onions.
+
+---
 
 ### Recipe 68: Maple Sausage Breakfast
 - Serves: 6 | Prep: 10 min | Cook: 25 min | Style: Skillet-baked
@@ -1752,6 +1936,8 @@ A modern, comfort-forward collection of 100 mac and cheese recipes designed for 
 **Finishing Touch**
 - Serve with a fried egg on top.
 
+---
+
 ### Recipe 69: Bagel & Lox Brunch
 - Serves: 4 | Prep: 10 min | Cook: 18 min | Style: Stovetop
 - Flavor notes: Cream cheese base with smoked salmon.
@@ -1775,6 +1961,8 @@ A modern, comfort-forward collection of 100 mac and cheese recipes designed for 
 
 **Finishing Touch**
 - Top with dill and extra seasoning.
+
+---
 
 ### Recipe 70: French Onion Gratin
 - Serves: 6 | Prep: 15 min | Cook: 35 min | Style: Baked
@@ -1801,6 +1989,8 @@ A modern, comfort-forward collection of 100 mac and cheese recipes designed for 
 **Finishing Touch**
 - Garnish with parsley.
 
+---
+
 ### Recipe 71: Beer Cheese Brat
 - Serves: 6 | Prep: 10 min | Cook: 25 min | Style: Skillet-baked
 - Flavor notes: Malty beer cheese with bratwurst.
@@ -1824,6 +2014,8 @@ A modern, comfort-forward collection of 100 mac and cheese recipes designed for 
 
 **Finishing Touch**
 - Top with chopped chives and mustard drizzle.
+
+---
 
 ### Recipe 72: Stout Braised Beef
 - Serves: 6 | Prep: 20 min | Cook: 30 min | Style: Baked
@@ -1849,6 +2041,8 @@ A modern, comfort-forward collection of 100 mac and cheese recipes designed for 
 **Finishing Touch**
 - Sprinkle with fried shallots.
 
+---
+
 ### Recipe 73: Cider Apple Cheddar
 - Serves: 4 | Prep: 10 min | Cook: 20 min | Style: Stovetop
 - Flavor notes: Tart apple cider with sharp cheddar.
@@ -1872,6 +2066,8 @@ A modern, comfort-forward collection of 100 mac and cheese recipes designed for 
 **Finishing Touch**
 - Add toasted walnuts.
 
+---
+
 ### Recipe 74: Blue Cheese & Walnut
 - Serves: 4 | Prep: 10 min | Cook: 18 min | Style: Stovetop
 - Flavor notes: Bold blue cheese with nutty crunch.
@@ -1894,6 +2090,8 @@ A modern, comfort-forward collection of 100 mac and cheese recipes designed for 
 
 **Finishing Touch**
 - Drizzle with honey.
+
+---
 
 ### Recipe 75: Pear Gorgonzola
 - Serves: 4 | Prep: 10 min | Cook: 18 min | Style: Stovetop
@@ -1919,6 +2117,8 @@ A modern, comfort-forward collection of 100 mac and cheese recipes designed for 
 **Finishing Touch**
 - Add a drizzle of balsamic glaze.
 
+---
+
 ### Recipe 76: Fig Prosciutto
 - Serves: 4 | Prep: 10 min | Cook: 20 min | Style: Stovetop
 - Flavor notes: Sweet figs with salty prosciutto.
@@ -1942,6 +2142,8 @@ A modern, comfort-forward collection of 100 mac and cheese recipes designed for 
 
 **Finishing Touch**
 - Add arugula on top.
+
+---
 
 ### Recipe 77: Smoked Salmon Pea
 - Serves: 4 | Prep: 10 min | Cook: 18 min | Style: Stovetop
@@ -1967,6 +2169,8 @@ A modern, comfort-forward collection of 100 mac and cheese recipes designed for 
 **Finishing Touch**
 - Add lemon zest and extra dill.
 
+---
+
 ### Recipe 78: Sardine & Lemon
 - Serves: 4 | Prep: 8 min | Cook: 15 min | Style: Stovetop
 - Flavor notes: Briny sardines with bright citrus.
@@ -1989,6 +2193,8 @@ A modern, comfort-forward collection of 100 mac and cheese recipes designed for 
 
 **Finishing Touch**
 - Top with toasted breadcrumbs.
+
+---
 
 ### Recipe 79: Clam Chowder Style
 - Serves: 6 | Prep: 10 min | Cook: 25 min | Style: Skillet
@@ -2015,6 +2221,8 @@ A modern, comfort-forward collection of 100 mac and cheese recipes designed for 
 **Finishing Touch**
 - Garnish with oyster crackers and parsley.
 
+---
+
 ### Recipe 80: Chili Mac Ranchero
 - Serves: 6 | Prep: 15 min | Cook: 25 min | Style: Skillet
 - Flavor notes: Hearty chili folded into cheesy pasta.
@@ -2039,6 +2247,8 @@ A modern, comfort-forward collection of 100 mac and cheese recipes designed for 
 
 **Finishing Touch**
 - Top with sour cream and green onions.
+
+---
 
 ### Recipe 81: Firehouse Three-Bean
 - Serves: 6 | Prep: 10 min | Cook: 25 min | Style: Skillet
@@ -2065,6 +2275,8 @@ A modern, comfort-forward collection of 100 mac and cheese recipes designed for 
 **Finishing Touch**
 - Add crushed tortilla chips.
 
+---
+
 ### Recipe 82: Smoky Paprika Turkey
 - Serves: 6 | Prep: 10 min | Cook: 20 min | Style: Skillet
 - Flavor notes: Smoked paprika turkey with creamy cheddar.
@@ -2088,6 +2300,8 @@ A modern, comfort-forward collection of 100 mac and cheese recipes designed for 
 
 **Finishing Touch**
 - Garnish with parsley and paprika.
+
+---
 
 ### Recipe 83: Thai Red Curry
 - Serves: 4 | Prep: 10 min | Cook: 18 min | Style: Stovetop
@@ -2113,6 +2327,8 @@ A modern, comfort-forward collection of 100 mac and cheese recipes designed for 
 **Finishing Touch**
 - Garnish with cilantro and lime zest.
 
+---
+
 ### Recipe 84: Coconut Lime Shrimp
 - Serves: 4 | Prep: 10 min | Cook: 18 min | Style: Stovetop
 - Flavor notes: Bright lime over creamy coconut shrimp.
@@ -2136,6 +2352,8 @@ A modern, comfort-forward collection of 100 mac and cheese recipes designed for 
 
 **Finishing Touch**
 - Top with cilantro and chili flakes.
+
+---
 
 ### Recipe 85: Lemongrass Chicken
 - Serves: 4 | Prep: 10 min | Cook: 20 min | Style: Stovetop
@@ -2161,6 +2379,8 @@ A modern, comfort-forward collection of 100 mac and cheese recipes designed for 
 **Finishing Touch**
 - Add lime wedges on the side.
 
+---
+
 ### Recipe 86: Miso Sesame
 - Serves: 4 | Prep: 10 min | Cook: 18 min | Style: Stovetop
 - Flavor notes: Umami miso with toasted sesame.
@@ -2184,6 +2404,8 @@ A modern, comfort-forward collection of 100 mac and cheese recipes designed for 
 
 **Finishing Touch**
 - Add a dash of rice vinegar for brightness.
+
+---
 
 ### Recipe 87: Teriyaki Tofu
 - Serves: 4 | Prep: 15 min | Cook: 20 min | Style: Skillet
@@ -2209,6 +2431,8 @@ A modern, comfort-forward collection of 100 mac and cheese recipes designed for 
 **Finishing Touch**
 - Garnish with sesame seeds and scallions.
 
+---
+
 ### Recipe 88: Crispy Paneer
 - Serves: 4 | Prep: 15 min | Cook: 20 min | Style: Skillet
 - Flavor notes: Golden paneer cubes with spiced cheese sauce.
@@ -2231,6 +2455,8 @@ A modern, comfort-forward collection of 100 mac and cheese recipes designed for 
 
 **Finishing Touch**
 - Top with cilantro and a squeeze of lime.
+
+---
 
 ### Recipe 89: Falafel Spiced
 - Serves: 4 | Prep: 10 min | Cook: 20 min | Style: Skillet
@@ -2258,6 +2484,8 @@ A modern, comfort-forward collection of 100 mac and cheese recipes designed for 
 **Finishing Touch**
 - Add chopped parsley and sumac.
 
+---
+
 ### Recipe 90: Za'atar Roasted Veg
 - Serves: 4 | Prep: 15 min | Cook: 25 min | Style: Skillet-baked
 - Flavor notes: Herbaceous za'atar with roasted veggies.
@@ -2280,6 +2508,8 @@ A modern, comfort-forward collection of 100 mac and cheese recipes designed for 
 
 **Finishing Touch**
 - Sprinkle with extra za'atar and olive oil.
+
+---
 
 ### Recipe 91: Moroccan Chickpea
 - Serves: 4 | Prep: 10 min | Cook: 20 min | Style: Skillet
@@ -2307,6 +2537,8 @@ A modern, comfort-forward collection of 100 mac and cheese recipes designed for 
 **Finishing Touch**
 - Top with toasted almonds and cilantro.
 
+---
+
 ### Recipe 92: Harissa Halloumi
 - Serves: 4 | Prep: 10 min | Cook: 20 min | Style: Skillet
 - Flavor notes: Spicy harissa with squeaky halloumi cubes.
@@ -2330,6 +2562,8 @@ A modern, comfort-forward collection of 100 mac and cheese recipes designed for 
 
 **Finishing Touch**
 - Add mint leaves and lemon wedges.
+
+---
 
 ### Recipe 93: Shawarma Spiced Lamb
 - Serves: 4 | Prep: 15 min | Cook: 22 min | Style: Skillet
@@ -2355,6 +2589,8 @@ A modern, comfort-forward collection of 100 mac and cheese recipes designed for 
 **Finishing Touch**
 - Top with yogurt sauce and parsley.
 
+---
+
 ### Recipe 94: Sumac Roasted Chicken
 - Serves: 4 | Prep: 10 min | Cook: 22 min | Style: Stovetop
 - Flavor notes: Citrusy sumac with creamy cheddar.
@@ -2378,6 +2614,8 @@ A modern, comfort-forward collection of 100 mac and cheese recipes designed for 
 **Finishing Touch**
 - Garnish with parsley and lemon wedges.
 
+---
+
 ### Recipe 95: Caraway Cabbage Kielbasa
 - Serves: 6 | Prep: 15 min | Cook: 25 min | Style: Skillet
 - Flavor notes: Eastern European-inspired with caraway crunch.
@@ -2400,6 +2638,8 @@ A modern, comfort-forward collection of 100 mac and cheese recipes designed for 
 
 **Finishing Touch**
 - Add chopped dill.
+
+---
 
 ### Recipe 96: Pierogi-Inspired Potato
 - Serves: 6 | Prep: 15 min | Cook: 25 min | Style: Baked
@@ -2425,6 +2665,8 @@ A modern, comfort-forward collection of 100 mac and cheese recipes designed for 
 **Finishing Touch**
 - Garnish with sour cream and chives.
 
+---
+
 ### Recipe 97: Everything Bagel Cauli
 - Serves: 4 | Prep: 10 min | Cook: 20 min | Style: Stovetop
 - Flavor notes: Roasted cauliflower with everything seasoning.
@@ -2448,6 +2690,8 @@ A modern, comfort-forward collection of 100 mac and cheese recipes designed for 
 
 **Finishing Touch**
 - Top with extra seasoning and scallions.
+
+---
 
 ### Recipe 98: Biryani-Spiced Veg
 - Serves: 6 | Prep: 15 min | Cook: 25 min | Style: Skillet-baked
@@ -2473,6 +2717,8 @@ A modern, comfort-forward collection of 100 mac and cheese recipes designed for 
 **Finishing Touch**
 - Top with fried onions and cilantro.
 
+---
+
 ### Recipe 99: Pho Broth Mac
 - Serves: 4 | Prep: 10 min | Cook: 22 min | Style: Stovetop
 - Flavor notes: Aromatic pho spices with silky cheese.
@@ -2495,6 +2741,8 @@ A modern, comfort-forward collection of 100 mac and cheese recipes designed for 
 
 **Finishing Touch**
 - Add cilantro, basil, and sliced scallions.
+
+---
 
 ### Recipe 100: Ramen Broth Mac
 - Serves: 4 | Prep: 10 min | Cook: 20 min | Style: Stovetop
@@ -2519,14 +2767,26 @@ A modern, comfort-forward collection of 100 mac and cheese recipes designed for 
 **Finishing Touch**
 - Top with soft-boiled egg halves and nori strips.
 
+---
+
 ## Batch Cooking & Freezing
-- **Freezer-friendly:** Baked styles (pan 9x13) freeze well. Underbake by 5 minutes; cool, wrap tightly, and freeze up to 2 months.
-- **Reheat:** Thaw overnight. Bake covered at 350°F for 25–35 minutes, adding 1/2 cup milk if dry.
-- **Meal prep cups:** Portion into muffin tins, bake, cool, and freeze for quick snacks.
+
+### Make-Ahead Tips
+- **Freezer-friendly:** Baked styles (9×13 pan) freeze well. Underbake by 5 minutes; cool, wrap tightly, and freeze up to 2 months.
+- **Reheat:** Thaw overnight in refrigerator. Bake covered at 350°F for 25–35 minutes, adding 1/2 cup milk if dry.
+- **Meal prep cups:** Portion into muffin tins, bake, cool, and freeze individually for quick snacks or lunches.
+
+---
 
 ## Conversions & Measurements
-- **Volume:** 1 cup = 240 ml; 1 tbsp = 15 ml; 1 tsp = 5 ml.
-- **Weight (cheese, shredded):** 1 cup ≈ 4 oz (115 g).
-- **Pasta:** 1 lb (454 g) dry pasta yields ~8 cups cooked.
-- **Oven temps:** 350°F = 175°C; 375°F = 190°C; 400°F = 205°C.
-- **Pan sizes:** 9x13 in pan ≈ 3 qt; 8x8 in pan ≈ 2 qt; 10–12 in skillet ≈ 3 qt.
+
+### Quick Reference
+- **Volume:** 1 cup = 240 ml | 1 tbsp = 15 ml | 1 tsp = 5 ml
+- **Weight (cheese, shredded):** 1 cup ≈ 4 oz (115 g)
+- **Pasta:** 1 lb (454 g) dry pasta yields ~8 cups cooked
+- **Pan sizes:** 9×13 inch pan ≈ 3 quart | 8×8 inch pan ≈ 2 quart
+- **Oven temperatures:** 350°F = 175°C | 375°F = 190°C | 400°F = 205°C
+
+---
+
+*Thank you for exploring The Ultimate Mac and Cheese Book. Enjoy cooking and experimenting with these recipes!*
