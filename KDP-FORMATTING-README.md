@@ -8,6 +8,7 @@ This file has been formatted for Amazon Kindle Direct Publishing (KDP) with prof
 - **ISBN:** 9798261838371
 - **Edition:** First Edition
 - **Copyright Year:** 2025
+- **Page Size:** 8" × 10" (optimized for cookbook format)
 
 ## KDP-Ready Structure
 
@@ -31,6 +32,13 @@ This file has been formatted for Amazon Kindle Direct Publishing (KDP) with prof
   - Quick & Easy (81-90)
   - Global Fusion & Creative (91-100)
 
+**Recipe Formatting:**
+- Each recipe appears on its own dedicated page
+- Recipe titles are centered at the top of each page
+- Clear visual hierarchy with centered headings
+- Page breaks ensure recipes never run into each other
+- Optimized for 8" × 10" cookbook format
+
 ### Back Matter (Professional Publishing Standard)
 1. **Recipe Notes & Journal** - 6 pages for reader notes and ratings
 2. **About the Author** - Author bio and philosophy
@@ -46,12 +54,28 @@ This file has been formatted for Amazon Kindle Direct Publishing (KDP) with prof
 
 ### Page Breaks
 - Uses `<div style="page-break-after: always;"></div>` for proper pagination
+- Page break before every recipe (ensures each recipe starts on a new page)
+- Page break after every recipe (prevents recipes from running together)
 - Strategic breaks between major sections
+
+### Recipe Page Layout
+- **Centered Titles:** Recipe numbers and names centered at top of page
+- **Consistent Structure:** Each recipe follows the same format:
+  - Recipe number (e.g., "Recipe 01")
+  - Recipe name (e.g., "Classic Stovetop Comfort")
+  - Serving info and cooking times
+  - Ingredients list
+  - Directions
+  - Finishing Touch suggestions
+- **Individual Pages:** No recipe shares a page with another recipe
+- **8" × 10" Format:** Optimized page size for cookbook printing
 
 ### Print Considerations
 - Clean markdown formatting converts well to PDF
 - Professional spacing and hierarchy
 - Reader-friendly layout
+- 8" × 10" trim size ideal for cookbook binding
+- Ample white space for notes and annotations
 
 ### Digital (eBook) Considerations
 - Markdown headings create navigable table of contents
@@ -62,16 +86,20 @@ This file has been formatted for Amazon Kindle Direct Publishing (KDP) with prof
 
 ### For Print Books (Paperback)
 1. Convert markdown to PDF using a tool like:
-   - Pandoc: `pandoc Mac-and-Cheese-Cookbook-KDP.md -o cookbook.pdf`
-   - Word processor: Import markdown, export as PDF
+   - Pandoc: `pandoc Mac-and-Cheese-Cookbook-KDP.md -o cookbook.pdf --pdf-engine=xelatex -V geometry:papersize={8in,10in}`
+   - Word processor: Import markdown, set page size to 8" × 10", export as PDF
    - Professional layout software (Adobe InDesign, Affinity Publisher)
 
-2. Choose trim size (recommended: 6" x 9" or 7" x 10" for cookbooks)
+2. **Trim Size: 8" × 10"** (optimized for this cookbook)
+   - This is a standard cookbook size
+   - Provides ample space for recipes and ingredients
+   - Professional appearance on bookshelf
 
-3. Ensure margins meet KDP requirements:
-   - Inside margins: 0.5" minimum (more for thicker books)
+3. Ensure margins meet KDP requirements for 8" × 10" format:
+   - Inside margins: 0.625" minimum (for perfect binding)
    - Outside margins: 0.25" minimum
    - Top/bottom: 0.5" minimum
+   - **Recommended:** 0.75" inside, 0.5" outside, 0.625" top/bottom for optimal readability
 
 ### For eBooks (Kindle)
 1. Upload markdown directly or convert to:
@@ -114,23 +142,34 @@ The ISBN (9798261838371) appears on:
 ✅ ISBN prominently displayed on copyright page
 ✅ Copyright notice and disclaimers
 ✅ Comprehensive table of contents
-✅ All 100 recipes included
+✅ All 100 recipes included with centered titles
+✅ Each recipe on its own dedicated page
+✅ Page breaks before and after every recipe
 ✅ Back matter with reader engagement
 ✅ Reference materials and guides
-✅ Page break markers for print formatting
 ✅ Consistent formatting throughout
 ✅ Recipe notes section for reader interaction
+✅ Optimized for 8" × 10" cookbook format
 
 ## File Size
-- Total lines: 3,055
-- Estimated page count: 200-250 pages (depending on print format)
+- Total lines: 3,853
+- Estimated page count: 250-300 pages (8" × 10" format with one recipe per page)
 - Word count: Approximately 55,000-60,000 words
+- Page size: 8" × 10" (20.32 cm × 25.4 cm)
 
 ## Conversion Tools Recommended
 
 1. **Pandoc** (free, command-line)
    ```bash
-   pandoc Mac-and-Cheese-Cookbook-KDP.md -o cookbook.pdf --pdf-engine=xelatex
+   # Basic conversion with 8x10 page size
+   pandoc Mac-and-Cheese-Cookbook-KDP.md -o cookbook.pdf --pdf-engine=xelatex -V geometry:papersize={8in,10in}
+
+   # With custom margins for KDP
+   pandoc Mac-and-Cheese-Cookbook-KDP.md -o cookbook.pdf --pdf-engine=xelatex \
+     -V geometry:papersize={8in,10in} \
+     -V geometry:margin=0.75in \
+     -V geometry:inner=0.75in \
+     -V geometry:outer=0.5in
    ```
 
 2. **Calibre** (free, GUI-based)
