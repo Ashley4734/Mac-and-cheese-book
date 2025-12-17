@@ -6,3 +6,4 @@
 - Keep image prompts in a separate file aligned to recipe numbering.
 - When updating content, preserve at least 100 distinct recipes and maintain the numbering scheme.
 - Publisher-ready exports should be generated via `python scripts/export_to_rtf.py` (RTF importable into Microsoft Publisher); direct `.pub` creation is not available in this environment due to restricted package downloads.
+- For print-ready output without Publisher, use `python scripts/export_to_pdf.py` to create an 8x10-inch PDF in `publisher/` (requires `reportlab`).
