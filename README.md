@@ -14,3 +14,10 @@ Use the included RTF exporter to move the manuscript into Microsoft Publisher wi
 3. Import `publisher/Mac-and-Cheese-Cookbook.rtf` into Publisher (Insert > Object > Create from file), then save as `.pub`.
 
 See `publisher/README.md` for detailed layout notes.
+
+## 8x10 PDF export
+Generate a print-ready PDF sized for an 8x10-inch trim directly from the manuscript.
+
+1. Install the PDF dependency once: `python -m pip install reportlab`.
+2. From the repo root, run `python scripts/export_to_pdf.py`.
+3. The PDF is written to `publisher/Mac-and-Cheese-Cookbook-8x10.pdf` with preserved headings, bullets, and numbered steps.
